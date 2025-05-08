@@ -11,8 +11,6 @@ The **UTKFace** dataset contains over 20,000 face images with labels for:
 - Gender (0: Male, 1: Female)
 
 Each image filename follows the format: `age_gender_race_date.jpg`.
-
-Dataset must be extracted under: ```/kaggle/input/utkface-new/crop_part1/```
 ---
 
 ## Model Architecture
